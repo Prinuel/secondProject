@@ -1,0 +1,19 @@
+#textcircle{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	margin:0px 0px 25px 0px;
+	-webkit-box-pack:center;
+	
+}
+#one{
+	border-radius:50%;
+	line-height:22px;
+	height:22px;
+	width:22px;
+	margin:10px;
+	text-align:center;
+	padding:10px;
+	color:hsl(216, 12%, 54%);
+	background:hsl(213, 19%, 23%);	
+	
+}
