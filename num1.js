@@ -1,5 +1,5 @@
 const buttonHolder=document.querySelector("#pickbuns");
-let picked="";
+let picked=0;
 const change=document.querySelector("#change");
 const box=document.querySelector("#box");
 const box2=document.querySelector("#box2");
